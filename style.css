@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background: red;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.blog-post{
+    background: green;
+    padding: 10px;
+    margin: 10px auto;
+    width: 80%;
+    border: 10px solid rgb(173, 41, 41);
+    border-radius: 20px;
+}
+.blog-post h2{
+    color: #fff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+
+}
+.blog-post p{
+    color: #fff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+
+}
